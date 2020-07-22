@@ -1,2 +1,2 @@
 # Text
-練習中
+Exercise
